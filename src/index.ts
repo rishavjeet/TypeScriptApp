@@ -1,3 +1,4 @@
+//Update made on trial1
 import express,{Request,Response} from 'express';
 import {json} from 'body-parser';
 import { errorHandler } from './middleware/errorHandler';
